@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "d408ddaf78a1b2fe",
+    "id": "a2fe9f9a78645f54",
     "type": "split",
     "children": [
       {
-        "id": "0e967fa140865249",
+        "id": "11392861c43e31ea",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -101,8 +101,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0e967fa140865249",
+  "active": "11392861c43e31ea",
   "lastOpenFiles": [
+    "Index/Output MOC.md",
+    "Output/Output Note 1.md",
+    "Index/Note MOC.md",
+    "Notes/Dummy Note 1.md",
+    "Literature/Literature 1.md",
+    "Index/Literature MOC.md",
+    "Literature/Litereture 1.md",
+    "Index/_Index.md",
     "asd.md",
     "CWTS.md"
   ]
