@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "d408ddaf78a1b2fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e967fa140865249",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "asd.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3b03778627122b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "28651b875da4cac6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "087fbc96407b02d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b38a73a902af7593",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "96840ba11cbefb56",
+    "type": "split",
+    "children": [
+      {
+        "id": "21d0774accb7d1c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7576702cac9d9f71",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "asd.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27af571af825bd0d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "asd.md"
+              }
+            }
+          },
+          {
+            "id": "74c2661b8b3e6f65",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0e967fa140865249",
+  "lastOpenFiles": [
+    "asd.md",
+    "CWTS.md"
+  ]
+}
